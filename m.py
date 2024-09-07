@@ -357,7 +357,7 @@ def show_help(message):
 🤖 To See Admin Commands:
 💥 /admincmd : Shows All Admin Commands.
 
-Buy From :- @venomXcrazy
+Buy From :- @onefighterarmy
 Official Channel :- https://t.me/sujay8371
 '''
     for handler in bot.message_handlers:
